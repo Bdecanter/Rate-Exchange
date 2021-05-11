@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "chart.js": "^2.8.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.4.2",
     "react-chartkick": "^0.3.0",
     "react-dom": "^16.4.2",
